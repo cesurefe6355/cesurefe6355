@@ -15,14 +15,44 @@
 
 <br/>
 
-## 👨‍💻 Hakkımda
+<br/>
 
-Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazılım geliştiricisiyim. **C#**, **Unity**, **PHP** ve **Python** teknolojilerini kullanarak uçtan uca projeler üretiyor; masaüstü, web ve oyun mimarileri üzerinde çalışıyorum.
+<div align="center">
 
-- 🎮&nbsp; Unity ile oyun mekaniği ve sistem mimarisi tasarımı
-- 🧩&nbsp; C# ile temiz, sürdürülebilir ve ölçeklenebilir kod
-- 🌐&nbsp; PHP & Python ile web ve otomasyon çözümleri
-- 📚&nbsp; Yeni teknolojileri öğrenmeye ve projelere entegre etmeye her zaman açığım
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35" height="35" /> Teknolojiler & Araçlar
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Kullandığım+Modern+Teknolojiler;Sürekli+Öğreniyor+ve+Geliştiriyorum" alt="Typing SVG" />
+</a>
+
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" height="25" /> Diller & Oyun Motorları
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,unreal,py,php,js,html,css" alt="Diller ve Oyun Motorları" />
+  </a>
+</p>
+
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette" width="25" height="25" /> 3D Tasarım & Grafik
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,ps" alt="3D Tasarım ve Grafik" />
+  </a>
+</p>
+
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Database" width="25" height="25" /> Backend, Veri Tabanı & Ekosistem
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,sqlite,mysql,git" alt="Backend ve Veri Tabanı" />
+  </a>
+</p>
+
+</div>
 
 <br/>
 
