@@ -26,11 +26,6 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazıl�
 
 <br/>
 
-### 📊 Performans ve Katkı Paneli
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesurefe6355&theme=dark" alt="GitHub Streak" />
-</p>
 ### 🛠️ Teknolojiler & Araçlar
 
 **Diller & Oyun Motorları:**
