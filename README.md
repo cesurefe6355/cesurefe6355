@@ -61,7 +61,7 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazıl�
 
 <br/>
 
-## 🐍 Katkı Grafiği Animasyonu
+### 🐍 Katkı Grafiği Animasyonu
 
 <p align="center">
   <picture>
@@ -70,51 +70,6 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazıl�
     <img alt="Katkı grafiği yılan animasyonu" src="https://raw.githubusercontent.com/cesurefe6355/cesurefe6355/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<details>
-<summary>⚙️ Bu animasyon şu an boş görünüyor — nasıl aktif edersin?</summary>
-<br/>
-
-Bu, katkı geçmişini yılan oyunu gibi "yiyen" gerçek bir GIF/SVG animasyonu. Aktif etmek için:
-
-1. `cesurefe6355/cesurefe6355` adında **özel bir repo** oluştur (GitHub profilinde otomatik gösterilen repo budur).
-2. İçine `.github/workflows/snake.yml` dosyasını ekle:
-
-```yaml
-name: Snake Animasyonu
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: cesurefe6355
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Actions sekmesinden workflow'u bir kez manuel çalıştır (`workflow_dispatch`). Sonrasında her gece otomatik güncellenir.
-
-İstemezsen bu bölümü README'den tamamen silebilirsin.
-
-</details>
-
-<br/>
-
 ## 🌐 İletişim & Bağlantılar
 
 <p align="center">
