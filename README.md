@@ -44,22 +44,16 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazıl�
 
 <br/>
 
-## 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesurefe6355&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=cesurefe6355&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cesurefe6355&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cesurefe6355&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesurefe6355&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesurefe6355&theme=dark" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cesurefe6355&theme=dark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br/>
 
 ### 🐍 Katkı Grafiği Animasyonu
 
