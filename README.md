@@ -53,6 +53,8 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" height="20" /> **Prensibim:** Temiz kod (*Clean Code*), sürdürülebilir mimari ve sürekli öğrenme tutkusuyla karmaşık problemleri ölçeklenebilir çözümlere dönüştürmek.
 
 </div>
+
+
 ### 🛠️ Teknolojiler & Araçlar
 
 <div align="center">
