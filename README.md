@@ -15,26 +15,92 @@
 
 <br/>
 
-## 👨‍💻 Hakkımda
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hakkımda
 
-Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazılım geliştiricisiyim. **C#**, **Unity**, **PHP** ve **Python** teknolojilerini kullanarak uçtan uca projeler üretiyor; masaüstü, web ve oyun mimarileri üzerinde çalışıyorum.
-
-- 🎮&nbsp; Unity ile oyun mekaniği ve sistem mimarisi tasarımı
-- 🧩&nbsp; C# ile temiz, sürdürülebilir ve ölçeklenebilir kod
-- 🌐&nbsp; PHP & Python ile web ve otomasyon çözümleri
-- 📚&nbsp; Yeni teknolojileri öğrenmeye ve projelere entegre etmeye her zaman açığım
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br/>
 
-### 🛠️ Teknolojiler & Araçlar
+> 🚀 Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir geliştiriciyim.
+
+**C#**, **Unity**, **PHP** ve **Python** ile uçtan uca projeler üretiyor; masaüstü, web ve oyun mimarileri üzerine yoğunlaşıyorum.
+
+<br/>
+
+```yaml
+ad        : Cesur Efe Kamalı
+rol       : Oyun Geliştirici & Yazılım Mühendisi
+odak      : Unity · C# · PHP · Python
+ilgi      : Oyun Mekaniği · Sistem Mimarisi · Web Çözümleri
+durum     : "Yeni projelere her zaman açığım 🚀"
+```
+
+<br/>
+
+- 🎮&nbsp; **Unity** ile oyun mekaniği ve sistem mimarisi tasarımı
+- 🧩&nbsp; **C#** ile temiz, sürdürülebilir ve ölçeklenebilir kod yazımı
+- 🌐&nbsp; **PHP & Python** ile web ve otomasyon çözümleri geliştirme
+- 🎨&nbsp; **Blender & Photoshop** ile 3D modelleme ve grafik tasarım
+- 📚&nbsp; Yeni teknolojileri öğrenmeye ve projelere entegre etmeye her zaman açığım
+
+<br clear="right"/>
+
+---
 
 <div align="center">
 
-| Kategori | Teknolojiler |
-|:--|:--|
-| 🎮&nbsp;**Diller & Oyun Motorları** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| 🎨&nbsp;**3D Tasarım & Grafik** | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) |
-| 🗄️&nbsp;**Backend, Veri Tabanı & Ekosistem** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+### 🛠️ Teknolojiler & Araçlar
+
+<img src="https://skillicons.dev/icons?i=cs,unity,unrealengine,python,php,js,html,css,nodejs,blender,mysql,sqlite,git,github,vscode&perline=8&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+#### 🎮 Oyun Geliştirme
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+#### 🌐 Web & Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🗄️ Veri Tabanı & Araçlar
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🎨 Tasarım & 3D
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Uzmanlık Seviyeleri
+
+| Teknoloji | Seviye | İlerleme |
+|:--:|:--:|:--|
+| 🎮 Unity & C# | İleri | `████████████░░░` %85 |
+| 🌐 PHP & Web | Orta-İleri | `██████████░░░░░` %70 |
+| 🐍 Python | Orta | `████████░░░░░░░` %60 |
+| 🎨 Blender | Orta | `███████░░░░░░░░` %55 |
+| ⚡ JavaScript | Orta | `██████░░░░░░░░░` %50 |
 
 </div>
 
