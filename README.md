@@ -26,7 +26,7 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazıl�
 
 <br/>
 
-## 🛠️ Teknolojiler & Araçlar
+### 🛠️ Teknolojiler & Araçlar
 
 **Diller & Oyun Motorları:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -42,9 +42,10 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazıl�
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 
-**Veri Tabanı & Ekosistem:**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Backend, Veri Tabanı & Ekosistem:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub İstatistikleri
