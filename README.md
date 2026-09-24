@@ -15,17 +15,44 @@
 
 <br/>
 
-## 👨‍💻 Hakkımda
+<div align="left">
 
-Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan bir yazılım geliştiricisiyim. **C#**, **Unity**, **PHP** ve **Python** teknolojilerini kullanarak uçtan uca projeler üretiyor; masaüstü, web ve oyun mimarileri üzerinde çalışıyorum.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="38" height="38" /> Hakkımda
 
-- 🎮&nbsp; Unity ile oyun mekaniği ve sistem mimarisi tasarımı
-- 🧩&nbsp; C# ile temiz, sürdürülebilir ve ölçeklenebilir kod
-- 🌐&nbsp; PHP & Python ile web ve otomasyon çözümleri
-- 📚&nbsp; Yeni teknolojileri öğrenmeye ve projelere entegre etmeye her zaman açığım
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=6366F1&multiline=false&width=600&height=40&lines=Fikirleri+Koda%2C+Kodları+Deneyimlere+Dönüştürüyorum...++🚀" alt="Typing SVG" />
+</a>
+
+Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir geliştiriciyim. **C#**, **Unity**, **PHP** ve **Python** teknolojilerini harmanlayarak masaüstü, web ve oyun ekosistemleri üzerinde yüksek performanslı, uçtan uca projeler üretiyorum.
 
 <br/>
 
+### 🚀 Neler Yapıyorum?
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="22" height="22" /> 
+        Oyun & Sistem Mimarisi
+      </h4>
+      <p><b>Unity</b> ve <b>C#</b> kullanarak modüler oyun mekanikleri, fizik sistemleri, oyun içi veritabanı entegrasyonları ve performans odaklı mimariler tasarlıyorum.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" /> 
+        Yazılım & Web Çözümleri
+      </h4>
+      <p><b>PHP</b>, <b>Python</b> ve <b>C#</b> ile masaüstü yazılımları, otomasyon çözümleri, dinamik web platformları ve backend mimarileri geliştiriyorum.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" height="20" /> **Prensibim:** Temiz kod (*Clean Code*), sürdürülebilir mimari ve sürekli öğrenme tutkusuyla karmaşık problemleri ölçeklenebilir çözümlere dönüştürmek.
+
+</div>
 ### 🛠️ Teknolojiler & Araçlar
 
 <div align="center">
