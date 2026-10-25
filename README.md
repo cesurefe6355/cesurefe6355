@@ -60,7 +60,15 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 ### 💻 Projelerim
 
-<img src="https://ishan-rest.vercel.app/svg/projects/dev/Aramizdaki_Casus[Sosyal_Dedeksiyon_Oyunu,[Node.js,Socket.io,JS]]/Dehset_Games[Oyun_Platformu,[PHP,HTML,CSS]]/Dynamic_Island_Win[Masaustu_WPF_Araci,[C#,WPF]]" width="100%" />
+<div align="center">
+
+| Proje | Açıklama | Teknolojiler |
+|:---|:---|:---|
+| 🛒 **[Dehset-Store](https://github.com/cesurefe6355/Dehset-Store)** | Oyun ve dijital ürünler için geliştirilmiş web platformu. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ⚡ **[Dynamic-Island-Win](https://github.com/cesurefe6355/Dynamic-Island-Win)** | Windows için geliştirilmiş dinamik ada pencere aracı. | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white) |
+| ⏰ **[Teneffus_Hesaplayan](https://github.com/cesurefe6355/Teneffus_Hesaplayan)** | Okul teneffüs sürelerini takip eden pratik C# uygulaması. | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+
+</div>
 
 ---
 
