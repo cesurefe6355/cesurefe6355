@@ -89,6 +89,8 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
   </picture>
 </p>
 
+<img src="https://ishan-rest.vercel.app/svg/banner/hacker/cesurefe6355" width="100%" />
+
 ## 🌐 İletişim & Bağlantılar
 
 <p align="center">
