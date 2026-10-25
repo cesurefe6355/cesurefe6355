@@ -22,13 +22,12 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=6366F1&multiline=false&width=600&height=40&lines=Fikirleri+Koda%2C+Kodlar%C4%B1+Deneyimlere+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum...+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-</a>
 
 Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir geliştiriciyim. **C#**, **Unity**, **PHP** ve **Python** teknolojilerini harmanlayarak masaüstü, web ve oyun ekosistemleri üzerinde yüksek performanslı, uçtan uca projeler üretiyorum.
 
 <br/>
 
-<img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Cesurefe6355" width="100%" />
+<img src="https://ishan-rest.vercel.app/svg/banner/blackhole/cesurefe6355" width="100%" />
 
 ### 🚀 Neler Yapıyorum?
 
@@ -57,6 +56,13 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 </div>
 
+---
+
+### 💻 Projelerim
+
+<img src="https://ishan-rest.vercel.app/svg/projects/dev/Aramizdaki_Casus[Social_Deduction_Web_Game,[NodeJS,SocketIO,JS]]/Dehset_Games[Gaming_Platform,[PHP,HTML,CSS]]" width="100%" />
+
+---
 
 ### 🛠️ Teknolojiler & Araçlar
 
