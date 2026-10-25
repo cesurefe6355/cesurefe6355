@@ -28,6 +28,8 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 <br/>
 
+<img src="https://ishan-rest.vercel.app/svg/banner/blackhole/cesurefe6355" width="100%" />
+
 ### 🚀 Neler Yapıyorum?
 
 <table>
