@@ -30,6 +30,10 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Cesurefe6355" width="100%" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cesurefe6355&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 ### 🚀 Neler Yapıyorum?
 
 <table>
