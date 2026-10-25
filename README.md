@@ -28,42 +28,6 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 <br/>
 
-<div align="center">
-
-  <!-- 1. HACKER TEMALI BANNER -->
-  <img src="https://ishan-rest.vercel.app/svg/banner/hacker/cesurefe6355" width="100%" />
-
-  <!-- 2. YARATICI / CREATIVE BANNER (Aktif etmek için yukarıdakini kapatıp bunu açabilirsiniz) -->
-  <!-- <img src="https://ishan-rest.vercel.app/svg/banner/creative/cesurefe6355" width="100%" /> -->
-
-  <!-- 3. GELİŞTİRİCİ / DEVELOPER BANNER -->
-  <!-- <img src="https://ishan-res.vercel.app/svg/banner/dev/cesurefe6355" width="100%" /> -->
-
-  <!-- 4. HOLOGRAM EFEKTLİ BANNER -->
-  <!-- <img src="https://ishan-rest.vercel.app/svg/banner/hologram/cesurefe6355" width="100%" /> -->
-
-</div>
-
-### 💻 Hakkımda
-* 🚀 11. Sınıf Bilişim/Yazılım öğrencisiyim ve yazılım mühendisi olma hedefiyle ilerliyorum.
-* 🎮 Unity (C#), web teknolojileri (HTML, CSS, JS, PHP, Node.js) ve 3D modelleme (Blender) üzerine projeler geliştiriyorum.
-* 🌐 Kendi web platformlarım (`dehset.online`, `oyunova.online`) ve açık kaynak projelerim üzerinde çalışıyorum.
-
----
-
-### 🛠️ Teknoloji Yığım (Tech Stack)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,js,php,python,nodejs,blender,git,vscode" />
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesurefe6355&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesurefe6355&theme=tokyonight&hide_border=true" />
-</div>
-
 ### 🚀 Neler Yapıyorum?
 
 <table>
