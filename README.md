@@ -30,6 +30,13 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Cesurefe6355" width="100%" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%2010%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engine-Unity%206-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
 ### 🚀 Neler Yapıyorum?
 
 <table>
