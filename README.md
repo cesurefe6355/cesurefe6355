@@ -93,6 +93,8 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 <img src="https://ishan-rest.vercel.app/svg/banner/hologram/cesurefe6355" width="100%" />
 
+<img src="https://ishan-res.vercel.app/svg/banner/dev/cesurefe6355" width="100%" />
+
 ## 🌐 İletişim & Bağlantılar
 
 <p align="center">
