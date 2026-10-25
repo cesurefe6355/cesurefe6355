@@ -89,8 +89,6 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
   </picture>
 </p>
 
-<img src="https://ishan-rest.vercel.app/svg/banner/filelist/svg/banner/filelist/cesurefe6355[main.cs,app.js,blender_models,games]/dehset_online[index.php,style.css]" width="100%" />
-
 ## 🌐 İletişim & Bağlantılar
 
 <p align="center">
