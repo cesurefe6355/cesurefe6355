@@ -60,7 +60,7 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
 
 ### 💻 Projelerim
 
-<img src="https://ishan-rest.vercel.app/svg/projects/dev/Aramizdaki_Casus[Social_Deduction_Web_Game,[NodeJS,SocketIO,JS]]/Dehset_Games[Gaming_Platform,[PHP,HTML,CSS]]" width="100%" />
+<img src="https://ishan-rest.vercel.app/svg/projects/dev/Aramizdaki_Casus[Sosyal_Dedeksiyon_Oyunu,[Node.js,Socket.io,JS]]/Dehset_Games[Oyun_Platformu,[PHP,HTML,CSS]]/Dynamic_Island_Win[Masaustu_WPF_Araci,[C#,WPF]]" width="100%" />
 
 ---
 
