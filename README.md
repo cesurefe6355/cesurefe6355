@@ -91,7 +91,7 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
   </picture>
 </p>
 
-## 🌐 İletişim & Bağlantılar
+## 🌐 Bağlantılar
 
 <p align="center">
   <a href="https://dehset.online">
@@ -99,9 +99,6 @@ Oyun geliştirme ve yazılım mühendisliği süreçlerine odaklanan tutkulu bir
   </a>
   <a href="https://oyunova.online">
     <img src="https://img.shields.io/badge/oyunova.online-6366F1?style=for-the-badge" alt="Website"/>
-  </a>
-  <a href="mailto:cesurefe6355@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cesurefe6355%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
